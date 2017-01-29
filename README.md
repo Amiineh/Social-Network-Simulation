@@ -16,7 +16,7 @@ Test cases are provided in this repository and instruction to use the program is
 In the text editor you should copy the address of the folder containing three files:
 **Seeds.txt**: representing the initial informed vertices
 
-format: "vertex_index \ \  news_index" <br />
+format: "vertex_index ^^^^^ news_index" <br />
 Example:
 ```
 1 2
