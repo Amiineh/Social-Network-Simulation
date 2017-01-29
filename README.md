@@ -9,13 +9,15 @@ The model supports different categories of people and is capable of tracing news
 
 ## Input Formats
 Test cases are provided in this repository and instruction to use the program is described in the UI.
+
 ![alt tag](https://cloud.githubusercontent.com/assets/19167068/22405381/0905632c-e657-11e6-864d-021320987b77.jpg)
+
 
 In the text editor you should copy the address of the folder containing three files:
 **Seeds.txt**: representing the initial informed vertices
 
 format: "vertex_index  news_index" <br\ >
-Example::
+Example``::``
        1 2
 
 **Edges.txt**: represnting edge's weights
