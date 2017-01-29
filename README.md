@@ -15,8 +15,8 @@ In the text editor you should copy the address of the folder containing three fi
 **Seeds.txt**: representing the initial informed vertices
 
 format: "vertex_index  news_index" <br\ >
-Example:
-     ``  1 2``
+Example::
+       1 2
 
 **Edges.txt**: represnting edge's weights
 
