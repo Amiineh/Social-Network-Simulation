@@ -16,7 +16,7 @@ In the text editor you should copy the address of the folder containing three fi
 
 format: "vertex_index  news_index" <br\ >
 Example:
-       1 2
+     ``  1 2``
 
 **Edges.txt**: represnting edge's weights
 
