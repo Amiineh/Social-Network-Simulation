@@ -14,18 +14,18 @@ Test cases are provided in this repository and instruction to use the program is
 In the text editor you should copy the address of the folder containing three files:
 **Seeds.txt**: representing the initial informed vertices
 
-format: "vertex_index  news_index"
- Example:
- 1 2
+format: "vertex_index  news_index" <br\ >
+Example:
+       1 2
 
 **Edges.txt**: represnting edge's weights
 
-format: "source_vertex_index  destination_vertex_index  poisson_procces_parameter"
+format: "source_vertex_index  destination_vertex_index  poisson_procces_parameter"<br\ >
  Example:
- 5 6 0.12
+       5 6 0.12
 
 **Nodes.txt**: representing vertex's weights
 
-format: "vertex_index vertex_category probability_of_spreading_first_to_fourth_news"
+format: "vertex_index vertex_category probability_of_spreading_first_to_fourth_news"<br\ >
  Example:
- 0 student 0.8812879306377168 0 0 0
+        0 student 0.8812879306377168 0 0 0
