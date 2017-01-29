@@ -10,7 +10,7 @@ The model supports different categories of people and is capable of tracing news
 ## Input Formats
 Test cases are provided in this repository and instruction to use the program is described in the UI.
 
--><img src="https://cloud.githubusercontent.com/assets/19167068/22405381/0905632c-e657-11e6-864d-021320987b77.jpg" width="600"><-
+<p align="center"><img src="https://cloud.githubusercontent.com/assets/19167068/22405381/0905632c-e657-11e6-864d-021320987b77.jpg" width="600">
 
 
 In the text editor you should copy the address of the folder containing three files: <br />
@@ -36,4 +36,5 @@ format: "vertex_index &nbsp; &nbsp; &nbsp; vertex_category &nbsp; &nbsp; &nbsp; 
 ```
 <br />
 ## Final Result
-![alt tag](https://cloud.githubusercontent.com/assets/19167068/22405385/0c2e644a-e657-11e6-9298-b9c6c6850af2.jpg)
+
+<p align="center"><img src="https://cloud.githubusercontent.com/assets/19167068/22405385/0c2e644a-e657-11e6-9298-b9c6c6850af2.jpg" width="800">
