@@ -22,7 +22,7 @@ public class Main extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception{
         Group root = new Group();
-        primaryStage.setTitle("ESP - 94102647");
+        primaryStage.setTitle("Introduction");
         primaryStage.setScene(new Scene(root, 700, 200));
 
         Text intro = new Text("Please enter the full address of your files. The address should contain Nodes.txt, Edges.txt, and Seed.txt.\nIf there are more than 1 news, please include the information in separate lines in file Seed.txt.\nPress done to continue to the next page.");
@@ -75,7 +75,7 @@ public class Main extends Application {
                 LineChart lineChart = new LineChart(xAxis, yAxis);
                 VBox vbox = new VBox(lineChart);
                 vbox.getChildren().add(nextTurn);
-                primaryStage.setTitle("ESP - 94102647");
+                primaryStage.setTitle("Chart");
                 primaryStage.setScene(new Scene(vbox, 650, 500));
 
                 Map<String, DataEachClass> tempMap = socialNetwork.getLastData();
