@@ -1,7 +1,7 @@
 # Social-Network-Simulation
 
 This was a project defined for Engineering Probability and Statistics course.
-
+<br />
 ## Project description
 I modeled a social network by a directed graph with weighted edges and vertices (each weight between 0, 1). Edge's weights represented the probability of a person looking at the other person's news feed via a poisson process and the vertex weight representing the probability of a person's decision weather or not to spread the news via a bernouli distribution.
 The model has four news subjects and tracks all of them simultaneously. (Note that the weights are 4D vectors, each representing one news subject)
@@ -34,5 +34,6 @@ format: "vertex_index &nbsp; &nbsp; &nbsp; vertex_category &nbsp; &nbsp; &nbsp; 
  ```
  0 student 0.88 0 0 0
 ```
+<br />
 ## Final Result
 ![alt tag](https://cloud.githubusercontent.com/assets/19167068/22405385/0c2e644a-e657-11e6-9298-b9c6c6850af2.jpg)
