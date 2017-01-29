@@ -25,7 +25,8 @@ Example:
 
 format: "source_vertex_index \ \ destination_vertex_index \ \  poisson_procces_parameter"<br />
  Example:
-```5 6 0.12
+```
+5 6 0.12
 ```
 
 **Nodes.txt**: representing vertex's weights
