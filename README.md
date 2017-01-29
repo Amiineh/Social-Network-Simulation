@@ -10,7 +10,7 @@ The model supports different categories of people and is capable of tracing news
 ## Input Formats
 Test cases are provided in this repository and instruction to use the program is described in the UI.
 
-![alt tag](https://cloud.githubusercontent.com/assets/19167068/22405381/0905632c-e657-11e6-864d-021320987b77.jpg)
+![alt tag](https://cloud.githubusercontent.com/assets/19167068/22405381/0905632c-e657-11e6-864d-021320987b77.jpg =100x200)
 
 
 In the text editor you should copy the address of the folder containing three files: <br />
