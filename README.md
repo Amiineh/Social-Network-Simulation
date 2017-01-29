@@ -13,16 +13,15 @@ Test cases are provided in this repository and instruction to use the program is
 ![alt tag](https://cloud.githubusercontent.com/assets/19167068/22405381/0905632c-e657-11e6-864d-021320987b77.jpg)
 
 
-In the text editor you should copy the address of the folder containing three files:
+In the text editor you should copy the address of the folder containing three files: <br />
 **Seeds.txt**: representing the initial informed vertices
-
 format: "vertex_index &nbsp; &nbsp; &nbsp; news_index" <br />
 Example:
 ```
 1 2
 ```
-**Edges.txt**: represnting edge's weights
 
+**Edges.txt**: represnting edge's weights
 format: "source_vertex_index &nbsp; &nbsp; &nbsp; destination_vertex_index &nbsp; &nbsp; &nbsp;  poisson_procces_parameter"<br />
  Example:
 ```
@@ -30,9 +29,10 @@ format: "source_vertex_index &nbsp; &nbsp; &nbsp; destination_vertex_index &nbsp
 ```
 
 **Nodes.txt**: representing vertex's weights
-
 format: "vertex_index &nbsp; &nbsp; &nbsp; vertex_category &nbsp; &nbsp; &nbsp; probability_of_spreading_first_to_fourth_news"<br />
  Example:
  ```
  0 student 0.88 0 0 0
 ```
+## Final Result
+![alt tag](https://cloud.githubusercontent.com/assets/19167068/22405385/0c2e644a-e657-11e6-9298-b9c6c6850af2.jpg)
